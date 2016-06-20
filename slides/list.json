@@ -21,7 +21,7 @@
         }
     }, {
         "attr": {
-            "data-background": "/resources/orga-old.png",
+            "data-background": "resources/orga-old.png",
             "data-background-size": "contain"
         }
     }, {
@@ -32,7 +32,7 @@
         }
     }, {
         "attr": {
-            "data-background": "/resources/workflow-old.png",
+            "data-background": "resources/workflow-old.png",
             "data-background-size": "contain"
         }
     }, {
@@ -43,7 +43,7 @@
         }
     }, {
         "attr": {
-            "data-background": "/resources/echanges.png",
+            "data-background": "resources/echanges.png",
             "data-background-size": "contain"
         }
     }],
@@ -73,7 +73,7 @@
         }
     }, {
         "attr": {
-            "data-background": "/resources/new-workflow.png",
+            "data-background": "resources/new-workflow.png",
             "data-background-size": "contain"
         }
     },{
@@ -91,112 +91,112 @@
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-1.png",
+            "data-background": "resources/2diamonds-1.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-2.png",
+            "data-background": "resources/2diamonds-2.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-3.png",
+            "data-background": "resources/2diamonds-3.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-4.png",
+            "data-background": "resources/2diamonds-4.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-5.png",
+            "data-background": "resources/2diamonds-5.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-7.png",
+            "data-background": "resources/2diamonds-7.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-8.png",
+            "data-background": "resources/2diamonds-8.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-81.png",
+            "data-background": "resources/2diamonds-81.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-82.png",
+            "data-background": "resources/2diamonds-82.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-83.png",
+            "data-background": "resources/2diamonds-83.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-84.png",
+            "data-background": "resources/2diamonds-84.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-85.png",
+            "data-background": "resources/2diamonds-85.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-86.png",
+            "data-background": "resources/2diamonds-86.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-9.png",
+            "data-background": "resources/2diamonds-9.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-91.png",
+            "data-background": "resources/2diamonds-91.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-10.png",
+            "data-background": "resources/2diamonds-10.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-101.png",
+            "data-background": "resources/2diamonds-101.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-102.png",
+            "data-background": "resources/2diamonds-102.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-103.png",
+            "data-background": "resources/2diamonds-103.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-104.png",
+            "data-background": "resources/2diamonds-104.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-105.png",
+            "data-background": "resources/2diamonds-105.png",
             "data-background-size": "contain"
         }
     }, {
         "attr": {
-            "data-background": "/resources/2diamonds-106.png",
+            "data-background": "resources/2diamonds-106.png",
             "data-background-size": "contain"
         }
     }]
