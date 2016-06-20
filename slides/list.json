@@ -59,7 +59,7 @@
             "data-background": "#fff",
             "data-background-size": "contain"
         }
-    },  {
+    }, {
         "filename": "new-worflow5.html",
         "attr": {
             "data-background": "#fff",
@@ -76,7 +76,7 @@
             "data-background": "resources/new-workflow.png",
             "data-background-size": "contain"
         }
-    },{
+    }, {
         "filename": "new-worflow2.html",
         "attr": {
             "data-background": "#fff",
@@ -197,6 +197,38 @@
     }, {
         "attr": {
             "data-background": "resources/2diamonds-106.png",
+            "data-background-size": "contain"
+        }
+    }],
+    [{
+        "filename": "creativ.html",
+        "attr": {
+            "data-background": "#fff",
+            "data-background-size": "contain"
+        }
+    }, {
+        "attr": {
+            "data-background": "resources/cd1.png",
+            "data-background-size": "contain"
+        }
+    }, {
+        "attr": {
+            "data-background": "resources/cd2.png",
+            "data-background-size": "contain"
+        }
+    }, {
+        "attr": {
+            "data-background": "resources/cd3.png",
+            "data-background-size": "contain"
+        }
+    }, {
+        "attr": {
+            "data-background": "resources/cd4.png",
+            "data-background-size": "contain"
+        }
+    }, {
+        "attr": {
+            "data-background": "resources/cd5.png",
             "data-background-size": "contain"
         }
     }]
